@@ -1,0 +1,13 @@
+{
+    "name": "discord-ticket-bot",
+    "version": "1.0.0",
+    "description": "A Discord bot for creating and managing tickets.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "discord.js": "^14.15.3",
+        "moment-timezone": "^0.5.45"
+    }
+}
